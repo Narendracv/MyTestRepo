@@ -1,0 +1,4 @@
+<apex:page  sidebar="false" showheader="false">
+    <apex:stylesheet value="{!$Resource.TestStyle}"/>
+    <apex:outputText value="Styled Text in a sample style class" styleClass="sample"/>
+</apex:page>
